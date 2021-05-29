@@ -1,4 +1,4 @@
-# LinuxSystemCourse
+# Linux Shell Script Excercise
 
 #### Description
 Linux系统及应用课程练习
