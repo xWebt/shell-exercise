@@ -1,4 +1,4 @@
-# LinuxSystemCourse
+# Linux Shell脚本练习
 
 #### 介绍
 Linux系统及应用课程练习
