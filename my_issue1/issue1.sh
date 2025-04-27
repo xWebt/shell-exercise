@@ -49,4 +49,4 @@ while true; do
   fi
 done
 
-echo "ending for all"
+echo "ending for "
